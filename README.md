@@ -1,7 +1,7 @@
 # dl_lecture
 
-演習スクリプトを纏めています。
-　exercise_xxx　：演習用スクリプト、一部穴埋めあり
+演習スクリプトを纏めています。<br>
+　exercise_xxx　：演習用スクリプト、一部穴埋めあり<br>
 　lecture_xxxx　：全記載スクリプト
 
 ＜フォルダ構成＞
